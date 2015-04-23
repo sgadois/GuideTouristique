@@ -25,7 +25,7 @@
 	#header-wrapper
 	{
 		background: #ff0000 url('images/bg01.jpg');
-		border-bottom: solid 1px #272d30;
+		border-bottom: solid 1px #fff;
 		box-shadow: inset 0px -1px 0px 0px #51575a;
 		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
 	}
@@ -37,7 +37,7 @@
 	
 	#features-wrapper
 	{
-		background: #353D40 url('images/bg02.jpg');
+		background: #353D40 url('images/bg02blue.jpg');
 		border-bottom: solid 1px #272e31;
 		padding: 45px 0 45px 0;
 		text-shadow: -1px -1px 1px rgba(0,0,0,0.75);
