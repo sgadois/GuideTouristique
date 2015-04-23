@@ -44,3 +44,20 @@
 	});
 
 })(jQuery);
+
+
+
+jQuery( document ).ready(function() {
+
+/*
+	1. Add your link as a new var
+	2. Add it to html() fonction at the good place !
+*/
+
+var nav1 = "<a href=\"index.html\">Accueil</a>";
+var nav2 = "<a href=\"detente.html\">Espace détente</a>";
+var nav3 = "<a href=\"culture.html\">Culture</a>";
+var nav4 = "<a href=\"famille.html\">Famille</a>";
+
+jQuery("#nav").html(nav1 + nav2 + nav3 + nav4);
+});
