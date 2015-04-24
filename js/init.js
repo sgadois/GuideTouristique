@@ -58,6 +58,6 @@ var nav1 = "<a href=\"index.html\">Accueil</a>";
 var nav2 = "<a href=\"detente.html\">Espace détente</a>";
 var nav3 = "<a href=\"culture.html\">Culture</a>";
 var nav4 = "<a href=\"famille.html\">Famille</a>";
-
-jQuery("#nav").html(nav1 + nav2 + nav3 + nav4);
+var nav5 = "<a href=\"aventure.html\">Aventure</a>";
+jQuery("#nav").html(nav1 + nav2 + nav3 + nav4 + nav5);
 });
